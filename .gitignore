@@ -24,3 +24,4 @@ hs_err_pid*
 replay_pid*
 /MavenProjectConnectDb/target/
 /HibernateDemoV1/target/
+/MvcDemoProject/target/
